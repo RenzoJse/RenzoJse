@@ -20,4 +20,6 @@ Me interesa el diseño de software como disciplina: cómo las decisiones técnic
 Actualmente sigo perfeccionando mi enfoque en sistemas concurrentes y arquitecturas reactivas.
 
 ## 📫 Contacto
-[LinkedIn](https://linkedin.com/in/renzojse) | [Correo](mailto:renzojose1999@gmail.com)
+
+[LinkedIn](https://linkedin.com/in/renzojse) 
+📧 renzojose1999@gmail.com - [Correo](mailto:renzojose1999@gmail.com)

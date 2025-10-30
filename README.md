@@ -1,6 +1,7 @@
 # 👋 ¡Hola! Soy Renzo
-Soy desarrollador de software con foco en arquitectura, diseño limpio y desarrollo backend.  
-Me apasiona entender cómo las piezas encajan: desde los patrones GRASP y TDD hasta la comunicación entre procesos y sistemas distribuidos.
+Desarrollador de software orientado al diseño arquitectónico y la calidad del código.
+Me especializo en backend y en la creación de sistemas estructurados, mantenibles y escalables.
+Busco siempre el equilibrio entre elegancia técnica y claridad conceptual, aplicando principios como GRASP, Clean Code y TDD.
 
 ## 🧰 Tecnologías que uso
 - **Lenguajes:** C#, TypeScript, Java, Python

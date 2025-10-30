@@ -3,15 +3,15 @@ Soy desarrollador de software con foco en arquitectura, diseño limpio y desarro
 Me apasiona entender cómo las piezas encajan: desde los patrones GRASP y TDD hasta la comunicación entre procesos y sistemas distribuidos.
 
 ## 🧰 Tecnologías que uso
-- **Lenguajes:** C#, TypeScript, Java, Python  
+- **Lenguajes:** C#, TypeScript, Java, Python
 - **Frameworks:** .NET, Angular, Node.js  
-- **Bases de datos:** SQL Server, MongoDB  
-- **Metodologías:** TDD, Clean Code, GRASP, DDD  
+- **Bases de datos:** SQL Server, MongoDB, NEO4J
+- **Metodologías:** TDD, Clean Code, GRASP, DDD
 - **Herramientas:** Docker, Git, RabbitMQ, Azure DevOps
 
 ## 🧩 Proyectos destacados
-- 🎮 [VaporNet](https://github.com/RenzoJse/VaporNet) – Sistema cliente-servidor con protocolo TCP personalizado.  
-- 🧠 [ObjectSim](https://github.com/RenzoJse/ObjectSim) – Simulador de estructuras orientadas a objetos.  
+- 🎮 [Steam-Cliente-Servidor](https://github.com/RenzoJse/Steam-Sistema-Cliente-Servidor) – Sistema cliente-servidor.
+- 🧠 [ObjectSim](https://github.com/RenzoJse/Simulador-C-) – Simulador de estructuras orientadas a objetos.  
 - 🧪 [Steam Data Architecture](https://github.com/RenzoJse/Steam-Data-Architecture) – Arquitectura de datos distribuida para análisis de juegos.
 
 ## 📚 Formación y enfoque
@@ -19,4 +19,4 @@ Me interesa el diseño de software como disciplina: cómo las decisiones técnic
 Actualmente sigo perfeccionando mi enfoque en sistemas concurrentes y arquitecturas reactivas.
 
 ## 📫 Contacto
-[LinkedIn](https://linkedin.com/in/renzojse) | [Correo](mailto:tuemail@example.com)
+[LinkedIn](https://linkedin.com/in/renzojse) | [Correo](mailto:renzojose1999@gmail.com)
